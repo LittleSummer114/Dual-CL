@@ -2,7 +2,8 @@
 [Dual Contrastive Learning for Cross-domain Named Entity Recognition](submitted to IEEE Transactions). 
 
 ## Data
-[[DAPT]([https://github.com/leekum2018/CLE4ATE/tree/main/Laptops_flat](https://drive.google.com/file/d/1UArV_MHAMK_HPBJPrYghB5al5DgJdjPw/view?usp=sharing))]
+
+[[DAPT]([https://drive.google.com/drive/folders/1HV2uc_4KzCp4YgrcJJyjPjKOuxqEJ9Hh?usp=share_link](https://drive.google.com/file/d/1UArV_MHAMK_HPBJPrYghB5al5DgJdjPw/view?usp=sharing))]
 
 ## Checkpoints 
 
