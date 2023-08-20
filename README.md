@@ -3,8 +3,7 @@
 
 ## Data
 
- [[DAPT]([https://drive.google.com/drive/folders/1HV2uc_4KzCp4YgrcJJyjPjKOuxqEJ9Hh?usp=share_link](https://drive.google.com/file/d/1UArV_MHAMK_HPBJPrYghB5al5DgJdjPw/view?usp=sharing
-))]
+ [[DAPT]([https://drive.google.com/drive/folders/1HV2uc_4KzCp4YgrcJJyjPjKOuxqEJ9Hh?usp=share_link)]
 
 
 ## Checkpoints 
